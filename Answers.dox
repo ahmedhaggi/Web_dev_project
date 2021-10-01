@@ -1,0 +1,4 @@
+Using  a class  you can control  one  tag and manipulating,inside that tag only .
+while with out using style  all tag can effect ,when you changed  one  them when they are same.
+ it looks  like  class or Id and their structure
+ class="name" while id="name"
